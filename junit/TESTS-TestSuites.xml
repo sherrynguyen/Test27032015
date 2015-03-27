@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="WIN-NT6VBDKDRPQ" id="0" name="GigaTest" package="com.example.tests" skipped="0" tests="1" time="30.682" timestamp="2015-03-27T02:41:49">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.USERDOMAIN_ROAMINGPROFILE" value="WIN-NT6VBDKDRPQ" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="os.name" value="Windows 8.1" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes" />
+
+          <property name="env.COMPUTERNAME" value="WIN-NT6VBDKDRPQ" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+
+          <property name="java.runtime.version" value="1.7.0_67-b01" />
+
+          <property name="env.HOMEPATH" value="\Users\Sherry" />
+
+          <property name="user.name" value="Sherry" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jre7\bin" />
+
+          <property name="ant.project.default-target" value="build" />
+
+          <property name="ant.project.name" value="TestSelenium27032015" />
+
+          <property name="java.version" value="1.7.0_67" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 15 Stepping 11, GenuineIntel" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.TEMP" value="C:\Users\Sherry\AppData\Local\Temp" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="ECLIPSE_HOME" value="../../eclipse/" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="51.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jre7" />
+
+          <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+
+          <property name="env.APPDATA" value="C:\Users\Sherry\AppData\Roaming" />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="E:\TestDemo\TestSelenium27032015\build.xml" />
+
+          <property name="os.version" value="6.3" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="24.65-b04" />
+
+          <property name="env.USERPROFILE" value="C:\Users\Sherry" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.7.0_67\jre" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\Users\Sherry\AppData\Local\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="user.script" value="" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/scripts/" />
+
+          <property name="user.home" value="C:\Users\Sherry" />
+
+          <property name="target" value="1.7" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="2" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/lib/amd64;C:\Program Files\apache-ant-1.8.2\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\apache-ant-1.8.2\bin;C:\Program Files\apache-ant-1.8.2\lib;C:\Program Files\Java\jdk1.7.0_67\jre\bin;E:\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="E:\TestDemo\TestSelenium27032015\bin;E:\eclipse\selenium-server-standalone-2.44.0.jar;E:\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar;E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-launcher.jar;E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar;E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit.jar;E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit4.jar" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.example.tests.GigaTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,E:\TestDemo\TestSelenium27032015\junit\TEST-com.example.tests.GigaTest.xml crashfile=E:\TestDemo\TestSelenium27032015\junitvmwatcher6337218754487310678.properties propsfile=E:\TestDemo\TestSelenium27032015\junit5172654291781239927.properties" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
+
+          <property name="ant.file.TestSelenium27032015" value="E:\TestDemo\TestSelenium27032015\build.xml" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="env.windir" value="C:\Windows" />
+
+          <property name="env.LOGONSERVER" value="\\WIN-NT6VBDKDRPQ" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="java.vm.specification.version" value="1.7" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="env.ANT_HOME" value="E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+
+          <property name="java.io.tmpdir" value="C:\Users\Sherry\AppData\Local\Temp\" />
+
+          <property name="env.PROCESSOR_REVISION" value="0f0b" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/eclipse/plugins/org.eclipse.pde.build_3.9.0.v20140415-2029/./" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SystemRoot" value="C:\Windows" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="E:\TestDemo\TestSelenium27032015" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\Sherry\AppData\Local" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="env.Path" value="C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/lib/amd64;C:\Program Files\apache-ant-1.8.2\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\apache-ant-1.8.2\bin;C:\Program Files\apache-ant-1.8.2\lib;C:\Program Files\Java\jdk1.7.0_67\jre\bin;E:\eclipse;" />
+
+          <property name="org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer0" value="C:\Users\Sherry\AppData\Local\Temp\null1630955437" />
+
+          <property name="basedir" value="E:\TestDemo\TestSelenium27032015" />
+
+          <property name="ant.java.version" value="1.7" />
+
+          <property name="ant.core.lib" value="E:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="Sherry" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="source" value="1.7" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="env.USERDOMAIN" value="WIN-NT6VBDKDRPQ" />
+
+          <property name="ant.file.type.TestSelenium27032015" value="file" />
+
+          <property name="java.specification.version" value="1.7" />
+
+          <property name="ant.project.invoked-targets" value="build,junitreport,GigaTest" />
+
+          <property name="env.PROCESSOR_LEVEL" value="6" />
+
+      </properties>
+
+      <testcase classname="com.example.tests.GigaTest" name="testGiga" time="30.486" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
